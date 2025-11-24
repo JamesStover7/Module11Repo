@@ -2,4 +2,10 @@
 # 11/24/2025
 # A simple Python program to print a message
 
-print("Hello, World!")
+# James Stover
+# 11/24/2025
+# added new message
+
+print("Hello World!")
+
+print("Welcome to GitHub")
